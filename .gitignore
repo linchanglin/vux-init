@@ -3,14 +3,12 @@ build/
 config/
 node_modules/
 src/
-static/
 test/
 .babelrc
 .editorconfig
 .eslintignore
 .eslintrc.js
 .postcssrc.js
-index.html
 package.json
 README.md
 
